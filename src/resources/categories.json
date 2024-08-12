@@ -1,0 +1,61 @@
+{
+    "brands": [
+      {
+        "id": "01J47796Q8XWWJ66Z4MX764YKS",
+        "name": "Hand Tools",
+        "slug": "hand-tools",
+        "parent_id": null,
+        "sub_categories": [
+          {
+            "id": "01J47796QCFV3FS7SEKFF51VD1",
+            "name": "Hammer",
+            "slug": "hammer",
+            "parent_id": "01J47796Q8XWWJ66Z4MX764YKS",
+            "sub_categories": []
+          },
+          {
+            "id": "01J47796QCFV3FS7SEKFF51VD2",
+            "name": "Hand Saw",
+            "slug": "hand-saw",
+            "parent_id": "01J47796Q8XWWJ66Z4MX764YKS",
+            "sub_categories": []
+          },
+          {
+            "id": "01J47796QCFV3FS7SEKFF51VD3",
+            "name": "Wrench",
+            "slug": "wrench",
+            "parent_id": "01J47796Q8XWWJ66Z4MX764YKS",
+            "sub_categories": []
+          },
+          {
+            "id": "01J47796QCFV3FS7SEKFF51VD4",
+            "name": "Screwdriver",
+            "slug": "screwdriver",
+            "parent_id": "01J47796Q8XWWJ66Z4MX764YKS",
+            "sub_categories": []
+          },
+          {
+            "id": "01J47796QCFV3FS7SEKFF51VD5",
+            "name": "Pliers",
+            "slug": "pliers",
+            "parent_id": "01J47796Q8XWWJ66Z4MX764YKS",
+            "sub_categories": []
+          },
+          {
+            "id": "01J47796QCFV3FS7SEKFF51VD6",
+            "name": "Chisels",
+            "slug": "chisels",
+            "parent_id": "01J47796Q8XWWJ66Z4MX764YKS",
+            "sub_categories": []
+          },
+          {
+            "id": "01J47796QCFV3FS7SEKFF51VD7",
+            "name": "Measures",
+            "slug": "measures",
+            "parent_id": "01J47796Q8XWWJ66Z4MX764YKS",
+            "sub_categories": []
+          }
+        ]
+      }
+    ]
+}
